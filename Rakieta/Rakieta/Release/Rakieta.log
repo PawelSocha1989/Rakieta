@@ -1,0 +1,21 @@
+﻿  glm.cpp
+E:\Rakieta\Rakieta\Rakieta\glm.cpp(1570,23): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'GLfloat *'
+  glmimg.cpp
+E:\Rakieta\Rakieta\Rakieta\glmimg.cpp(4,1): warning C4005: 'GL_BGR_EXT': macro redefinition
+E:\Rakieta\Rakieta\GLFiles\include\GL\gl.h(1113): message : see previous definition of 'GL_BGR_EXT'
+E:\Rakieta\Rakieta\Rakieta\glmimg.cpp(7,1): warning C4005: 'GL_BGRA_EXT': macro redefinition
+E:\Rakieta\Rakieta\GLFiles\include\GL\gl.h(1114): message : see previous definition of 'GL_BGRA_EXT'
+E:\Rakieta\Rakieta\Rakieta\glmimg.cpp(19,9): warning C4101: 'ixPow2': unreferenced local variable
+E:\Rakieta\Rakieta\Rakieta\glmimg.cpp(18,19): warning C4101: 'yPow2': unreferenced local variable
+E:\Rakieta\Rakieta\Rakieta\glmimg.cpp(17,21): warning C4101: 'rdata': unreferenced local variable
+E:\Rakieta\Rakieta\Rakieta\glmimg.cpp(19,17): warning C4101: 'iyPow2': unreferenced local variable
+E:\Rakieta\Rakieta\Rakieta\glmimg.cpp(21,11): warning C4101: 'retval': unreferenced local variable
+E:\Rakieta\Rakieta\Rakieta\glmimg.cpp(18,12): warning C4101: 'xPow2': unreferenced local variable
+  rakieta.cpp
+E:\Rakieta\Rakieta\Rakieta\rakieta.cpp(246,24): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+E:\Rakieta\Rakieta\Rakieta\rakieta.cpp(246,31): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+E:\Rakieta\Rakieta\Rakieta\rakieta.cpp(246,38): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+  Texture.cpp
+  Generating Code...
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Rakieta.vcxproj -> E:\Rakieta\Rakieta\Release\Rakieta.exe

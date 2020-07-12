@@ -1,0 +1,18 @@
+﻿Do sterowania projektem używamy klawiatury oraz myszki.
+Gdy chcemy obrócić kamerą przytrzymujemy lewy klawisz myszy oraz poruszamy nią.
+Chcąc przybliżyć lub oddalić kamerę przytrzymujemyprawy klawisz myszki i rónie poruszamy nią.
+Chcąc przesunąć rakietę w inne miejsce używamy klawiszy: 
+'W', 'S', 'A', 'D', 'Q', 'E' 
+odpowiednio przesówając rakietę do góry, w dół, w lewo, w prawo, do przodu oraz do tyłu. 
+Chcąc rozjaśnić lub przyciemnić projekt używamy klawiszy '[' oraz ']'.
+Za pomocą klawiszy:
+'I', 'K', 'J', 'L', 'U', 'O'
+ustawiamy kąt pod jakim chcemy aby nasza rakieta wystartowała.
+Do obrotu kamerą możemy również użyć klawiszy:
+'T', 'G', 'F', 'H'.
+Do przybliżenia oraz oddalenia kamery możemy również użyć klawiszy:
+'9', '0'.
+Klawisze odpowiadjącymi za ustawienie trajektorii po jakiej ma sie poruszać rakieta są:
+'1', '2', '3', '4', '5', '6', '7', '8';
+Aby wykonać ruch rakietą na podstawie ustawionej trajektorii wystarczy przycisnąć klawisz spacji.
+Za pomocą klawisza ESC zamykamy projekt.
