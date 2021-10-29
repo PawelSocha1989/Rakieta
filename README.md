@@ -1,6 +1,5 @@
 # System trajektorii lotu rakiety
 
-Polski
 
 Powyższym projektem, który chciałbym przedstawić jest system sterowania trajektorią lotu rakiety. 
 W projekcie możemy ustalić za pomocą odpowiednich klawiszy ową trajektorię, która jest przedstawiona w postaci linii przerywanej. 
@@ -13,7 +12,7 @@ po czym za pomocą biblioteki GLM: an Alias Wavefront OBJ wstawione do projektu.
 Szczegóły opisujące pełne sterowanie projektem przedstawione jest w pliku Opis.txt. 
 
 
-English
+# Rocket trajectory system
 
 The above project that I would like to present is the rocket trajectory control system.
 In the project, we can determine the trajectory using the appropriate keys, which is presented in the form of a dashed line.
@@ -22,5 +21,5 @@ It is also possible to launch a rocket based on a selected trajectory.
 We have added full control over the rocket, we can rotate it in any direction, or also move it.
 The project was made in C ++ with the use of the OpenGL graphic library, and as it was made in the Microsoft Visual Studio environment.
 The models were made from start to finish in 3ds Max Studio, then they were exported to the OBJ Wavefront format,
-then using the GLM library: an Alias ​​Wavefront OBJ inserted into the project.
+then using the GLM library: an Alias Wavefront OBJ inserted into the project.
 Details describing the full control of the project are presented in the file Opis.txt.
