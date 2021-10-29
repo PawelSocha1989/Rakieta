@@ -23,3 +23,7 @@ The project was made in C ++ with the use of the OpenGL graphic library, and as 
 The models were made from start to finish in 3ds Max Studio, then they were exported to the OBJ Wavefront format,
 then using the GLM library: an Alias Wavefront OBJ inserted into the project.
 Details describing the full control of the project are presented in the file Opis.txt.
+
+Links
+
+http://gamescomingfromthesoul.pl/rakieta/
