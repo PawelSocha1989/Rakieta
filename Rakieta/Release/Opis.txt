@@ -1,4 +1,6 @@
-﻿Do sterowania projektem używamy klawiatury oraz myszki.
+Polski
+
+Do sterowania projektem używamy klawiatury oraz myszki.
 Gdy chcemy obrócić kamerą przytrzymujemy lewy klawisz myszy oraz poruszamy nią.
 Chcąc przybliżyć lub oddalić kamerę przytrzymujemyprawy klawisz myszki i rónie poruszamy nią.
 Chcąc przesunąć rakietę w inne miejsce używamy klawiszy: 
@@ -16,3 +18,25 @@ Klawisze odpowiadjącymi za ustawienie trajektorii po jakiej ma sie poruszać ra
 '1', '2', '3', '4', '5', '6', '7', '8';
 Aby wykonać ruch rakietą na podstawie ustawionej trajektorii wystarczy przycisnąć klawisz spacji.
 Za pomocą klawisza ESC zamykamy projekt.
+
+
+English
+
+We use a keyboard and a mouse to control the project.
+When we want to rotate the camera we hold down the left mouse button and move it.
+If you want to zoom in or out of the camera, hold the right mouse button and move it in various ways.
+If you want to move the rocket to another place, use the following keys:
+'W', 'S', 'A', 'D', 'Q', 'E'
+moving the rocket up, down, left, right, forward and backward accordingly.
+If you want to lighten or darken the design, use the '[' and ']' keys.
+Using the keys:
+'I', 'K', 'J', 'L', 'U', 'O'
+we set the angle at which we want our rocket to take off.
+We can also use the following keys to rotate the camera:
+'T', 'G', 'F', 'H'.
+We can also use the following keys to zoom in and out of the camera:
+'9', '0'.
+The keys responsible for setting the trajectory on which the rocket is to move are:
+'1', '2', '3', '4', '5', '6', '7', '8';
+To make a rocket movement based on the set trajectory, just press the space bar.
+Use the ESC key to close the project.
