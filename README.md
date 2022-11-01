@@ -26,4 +26,4 @@ Details describing the full control of the project are presented in the file Opi
 
 Links
 
-http://gamescomingfromthesoul.pl/rakieta/
+https://www.youtube.com/watch?v=GihME8mnfjo&ab_channel=GamesComingFromTheSoul/
